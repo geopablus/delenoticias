@@ -8,3 +8,4 @@
 * [Geographica (empresa española) entre las 100 mejores geoespaciales del mundo](http://www.rtve.es/alacarta/audios/a-golpe-de-bit/golpe-bit-empresa-espanola-entre-mejores-geoespaciales-del-mundo-09-04-19/5130487/?fbclid=IwAR3HaJtu2M9VGKfftIe7lSyLxpkELPoDb8F2IiF85jfpyP8tRuTupl45hGw#)
 * [IV Premio EuroSDR a la mejor tesis en Geoinformación](http://blog-idee.blogspot.com/2019/04/iv-premio-eurosdr-la-mejor-tesis-en.html)
 * [Sistema móvil mejora la recogida de datos ambientales en las ciudades](http://www.tysmagazine.com/un-sistema-movil-mejora-la-recogida-de-datos-ambientales-en-las-ciudades/)
+* [Disponible a descarga por primera vez, un mosaico nacional a partir de imágenes Sentinel 2 del programa Copernicus de la Comisión Europea](http://centrodedescargas.cnig.es/CentroDescargas/catalogo.do?Serie=SENT2)
