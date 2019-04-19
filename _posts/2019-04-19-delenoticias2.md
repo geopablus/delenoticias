@@ -9,5 +9,5 @@
 * VÍDEO [Convertir correctamente Etiquetas de CAD a GIS con ArcGIS 10.6](https://www.youtube.com/watch?v=Cjm7aa6SxIA)
 * [Cómo recordar dónde has aparcado el coche con Google Maps](http://feeds.weblogssl.com/~r/genbeta/~3/0K4FCgbSUbc/como-recordar-donde-has-aparcado-coche-google-maps)
 * [Cómo generar mapas con simbología neón](http://www.gisandbeers.com/como-generar-mapas-simbologia-neon/)
-* [pequeño tutorial para añadir varios mapas base (vector tile) a QGIS](https://www.linkedin.com/pulse/a%25C3%25B1adir-un-listado-de-mapas-base-qgis-3-juan-pablo-or%25C3%25A1n-c%25C3%25A1ceres)
+* [Pequeño tutorial para añadir varios mapas base (vector tile) a QGIS](https://www.linkedin.com/pulse/a%25C3%25B1adir-un-listado-de-mapas-base-qgis-3-juan-pablo-or%25C3%25A1n-c%25C3%25A1ceres)
 * [Ahora HERE se apunta al Location Intelligence, ¿un nuevo CARTO?](https://explore.xyz.here.com/)
