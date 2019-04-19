@@ -1,3 +1,11 @@
+---
+layout: post
+title: Boletín del 19/04/19
+
+categories: [blog]
+tags: [Mapa, leaflet, cursos, iIGN, gvSIG, drones, QGIS, R, webinarios, CAD, ArcGIS, GoogleMaps, simbología, vectortiles, HERE, LocationIntelligence]
+---
+
 ## DeleNoticia #2
 
 * [Cómo crear mapas web sincronizados](https://mappinggis.com/2018/11/como-crear-mapas-web-sincronizados)
