@@ -1,3 +1,10 @@
+---
+layout: post
+title: Boletín del 14/04/19
+
+categories: [blog]
+tags: [OSM, Mapa, GoogleMaps]
+---
 ## DeleNoticia #1
 
 * Pude asistir al [Día del Mapatón Humanitario 2019](https://www.msf.es/mapaton-la-cartografia-herramienta-humanitaria), una experiencia enriquecedora que llevaba tiempo queriendo hacer. 14 lugares en España al mismo tiempo cartografiando espacios que no disponen de cartografía, en nuestro caso fue la zona oeste de la frontera de Zimbabwe, afectada por el ciclón Idai y tuvimos que identificar edificios, carreteras y aguas navegables. Pero no queda ahí el trabajo, se puede (y seguiré) colaborando desde casa.  [Entrevista RTVE sede de Valencia](http://www.rtve.es/alacarta/audios/todo-noticias-tarde/msf-mapaton-humanitario-2019/5135800/)
