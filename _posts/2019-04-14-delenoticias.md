@@ -3,7 +3,7 @@ layout: post
 title: Boletín del 14/04/19
 
 categories: [blog]
-tags: [OSM, Mapa, GoogleMaps]
+tags: [OSM, Mapa, GoogleMaps, geolocalización, geographica, tesis, IOT, sentinel2]
 ---
 ## DeleNoticia #1
 
