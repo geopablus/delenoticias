@@ -3,7 +3,7 @@ layout: post
 title: Boletín del 05/05/19
 
 categories: [blog]
-tags: [Mapa, Google Earth, GVSIG, GoogleMaps, simbología, DATUM, proyección, GPS, teledetección, QGIS, SAGA, BingMaps, buscador, Tesis, SIG, NASA, satétiles]
+tags: [Mapa, Historia, IA, Big Data, Agricultura de precisión, Imágenes de Satélite, Riesgos, TLS, ArcGIS, Drones, Mapa Interactivo, SLD, , Geoserver, GEE, Mapa Pendiente, Lidar, Agisoft Photoscan, GeoJSON, Geopackage]
 ---
 
 ## DeleNoticia #4
