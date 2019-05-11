@@ -1,3 +1,12 @@
+---
+layout: post
+title: Boletín del 12/05/19
+
+categories: [blog]
+tags: [SNAP, Plantillas infográficas, Hillshade, Plugin, Infografía, WMS, Vector Tiles, Mapa, Leaflet, Geolocalizar, ArcGIS, PostGIS, Geoserver, Recursos, Open Source, GVSIG, Proyecto Colaborativo, Datos, Precipitación, Lluvia, QGIS, SIG, Cursos, Python, satétiles]
+---
+
+## DeleNoticia #5
 
 
 * [Análisis de las aplicaciones de SNAP (Sentinels Application Plataform) para trabajar con imágenes aéreas](https://geoinnova.org/blog-territorio/gis-aplicacion-snap-imagenes-aereas/amp/?__twitter_impression=true)
