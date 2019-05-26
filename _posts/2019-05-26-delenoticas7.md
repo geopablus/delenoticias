@@ -1,10 +1,14 @@
 ---
+
 layout: post
 title: Boletín del 26/05/19
 
 categories: [blog]
 tags: [Mapa, Mapathon, IA, No2, contaminación, MapBOX, Interactive Maps, Facebook, Book, Ecologismo, Imágenes de Satélite, Riesgos, TLS, ArcGIS, QGIS, MXD, LYR, Mapa Interactivo, SLD, datos, webminar, HERE, análisis espacial, Madrid, Geoportal Fútbol, LiDAR, Visor 3D, Visor 2D, expresiones] 
+
 ---
+
+## DeleNoticia #7
 
 * [Mapatón colaborativo de Cruz Roja Española y Fundación Tecnologías Sociales (TECSOS) en Madrid el 30 de mayo](https://www.eventbrite.es/e/entradas-mapaton-colaborativo-de-cruz-roja-espanola-y-fundacion-tecnologias-sociales-tecsos-61867008889)
 * [Interactive Maps Using 'Mapbox GL JS' and 'Deck.gl'](https://symbolixau.github.io/mapdeck/index.html)
