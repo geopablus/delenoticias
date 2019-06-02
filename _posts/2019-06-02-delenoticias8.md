@@ -4,7 +4,7 @@ layout: post
 title: Boletín del 02/06/19
 
 categories: [blog]
-tags: [Mapa, Mapathon, IA, No2, contaminación, MapBOX, Interactive Maps, Facebook, Book, Ecologismo, Imágenes de Satélite, Riesgos, TLS, ArcGIS, QGIS, MXD, LYR, Mapa Interactivo, SLD, datos, webminar, HERE, análisis espacial, Madrid, Geoportal Fútbol, LiDAR, Visor 3D, Visor 2D, expresiones] 
+tags: [Mapa, Interactive Maps, Satélites, QGIS, Mapa Interactivo, Python, análisis espacial, dron, LiDAR, Leaflet,Imágenes Satélite, Excel, especies exóticas, Cataluña, datos climáticos, perfiles longitudinales, geoblog, CARTO, Geographica, etiquetas, elecciones] 
 ---
 
 DELENOTICIAS 8
