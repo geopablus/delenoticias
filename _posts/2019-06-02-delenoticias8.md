@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Boletín del 02/06/19
