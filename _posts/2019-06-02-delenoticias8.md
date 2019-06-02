@@ -6,7 +6,7 @@ categories: [blog]
 tags: [Mapa, Interactive Maps, Satélites, QGIS, Mapa Interactivo, Python, análisis espacial, dron, LiDAR, Leaflet,Imágenes Satélite, Excel, especies exóticas, Cataluña, datos climáticos, perfiles longitudinales, geoblog, CARTO, Geographica, etiquetas, elecciones] 
 ---
 
-DELENOTICIAS 8
+DeleNoticia #7
 
 * VÍDEO: [Insertar mapa en Excel y ver coordenads UTM](https://twitter.com/geofumadas/status/1132770715659329537?s=09)
 * MINITUTORIAL: [Cómo reclasificar una imagen en QGIS - MappingGIS]( https://mappinggis.com/2019/02/como-reclasificar-una-imagen-en-qgis/)
