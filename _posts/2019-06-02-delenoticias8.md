@@ -1,4 +1,4 @@
-DELENOTICIAS 8
+
 ---
 layout: post
 title: Boletín del 02/06/19
@@ -6,6 +6,8 @@ title: Boletín del 02/06/19
 categories: [blog]
 tags: [Mapa, Mapathon, IA, No2, contaminación, MapBOX, Interactive Maps, Facebook, Book, Ecologismo, Imágenes de Satélite, Riesgos, TLS, ArcGIS, QGIS, MXD, LYR, Mapa Interactivo, SLD, datos, webminar, HERE, análisis espacial, Madrid, Geoportal Fútbol, LiDAR, Visor 3D, Visor 2D, expresiones] 
 ---
+
+DELENOTICIAS 8
 
 * VÍDEO: [Insertar mapa en Excel y ver coordenads UTM](https://twitter.com/geofumadas/status/1132770715659329537?s=09)
 * MINITUTORIAL: [Cómo reclasificar una imagen en QGIS - MappingGIS]( https://mappinggis.com/2019/02/como-reclasificar-una-imagen-en-qgis/)
