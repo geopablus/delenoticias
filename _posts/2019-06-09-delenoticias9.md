@@ -25,7 +25,7 @@ tags: [Mapa, Interactive Maps, Satélites, QGIS, Mapa Interactivo, Python, anál
 * [Convirtiendo una geodatabase de ESRI para usarla en QGIS](https://www.gislounge.com/a-case-study-on-converting-a-geodatabase-from-arcgis-to-qgis/)
 * [¿Qué cambios trae el nuevo PostGIS 3?](https://mappinggis.com/2019/06/que-cambios-trae-el-nuevo-postgis-3/)
 * [El informe "Global Assessment Report on Disaster Risk Reduction (GAR)" de Naciones Unidas destaca a OpenStreetMap y la geoinformación voluntaria](https://resiliencymaps.org/un-report-calls-openstreetmap-foundational-to-disaster-risk-reduction)
-* [Google Maps traerá más información crucial ante desastres naturales]http://feedproxy.google.com/~r/WwwhatsNew/~3/t5bAQYlZv9Q/ ()
+* [Google Maps traerá más información crucial ante desastres naturales](http://feedproxy.google.com/~r/WwwhatsNew/~3/t5bAQYlZv9Q/)
 * MINITUTORIAL: [Cómo realizar geocodificación con GeoPy](https://mappinggis.com/2018/11/geocodificacion-con-geopy/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 * [Cómo corregir el bandeado de imágenes Landsat 7](http://www.gisandbeers.com/corregir-bandeado-imagenes-landsat-7/)
 * [GIF ejemplo de las diferencias de representar al mundo con distintas proyecciones](https://bl.ocks.org/mbostock/3711652?utm_content=buffera773a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
