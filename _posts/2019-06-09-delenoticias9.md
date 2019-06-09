@@ -29,4 +29,4 @@ tags: [Mapa, Interactive Maps, Satélites, QGIS, Mapa Interactivo, Python, anál
 * MINITUTORIAL: [Cómo realizar geocodificación con GeoPy](https://mappinggis.com/2018/11/geocodificacion-con-geopy/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 * [Cómo corregir el bandeado de imágenes Landsat 7](http://www.gisandbeers.com/corregir-bandeado-imagenes-landsat-7/)
 * [GIF ejemplo de las diferencias de representar al mundo con distintas proyecciones](https://bl.ocks.org/mbostock/3711652?utm_content=buffera773a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-* [Guía metodológica para el desarrollo de cartografía de zonas inundables - Gis&Beers](http://www.gisandbeers.com/guia-metodologica-cartografia-de-zonas-inundables/)
+* [Guía metodológica para el desarrollo de cartografía de zonas inundables](http://www.gisandbeers.com/guia-metodologica-cartografia-de-zonas-inundables/)
