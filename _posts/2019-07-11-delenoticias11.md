@@ -3,7 +3,7 @@ layout: post
 title: Boletín del 11/07/19
 
 categories: [blog]
-tags: [mapathon, error, Interactive Maps, software libre, Satélites, QGIS, Mapa Interactivo, Python, análisis espacial, , Leaflet, sensores, Imágenes Satélite, Google Maps, metro, iconos, perfiles longitudinales, geoblog, JavaScript, Ayuntamiento de Madrid, etiquetas, streaming 3D, FME, Geobloggers, , Mapas bivariantes, curso, Programación, Tips,  R, map tiles, ArcGIS PRO, modelos, modelador] 
+tags: [mapathon, Interactive Maps, software libre, Satélites, QGIS, Mapa Interactivo, análisis espacial, Leaflet, sensores, Imágenes Satélite, Google Maps, metro, geoblog, Geobloggers, Mapas bivariantes, Programación, Tips, R, map tiles, ArcGIS PRO, modelos, modelador] 
 ---
 
 ## DeleNoticia #11
