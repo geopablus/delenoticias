@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Boletín del 09/06/19
+title: Boletín del 11/07/19
 
 categories: [blog]
-tags: [Mapa, Interactive Maps, Satélites, QGIS, Mapa Interactivo, Python, análisis espacial, dron, LiDAR, Leaflet,Imágenes Satélite, Excel, especies exóticas, Cataluña, datos climáticos, perfiles longitudinales, geoblog, CARTO, Geographica, etiquetas, elecciones] 
+tags: [mapathon, error, Interactive Maps, software libre, Satélites, QGIS, Mapa Interactivo, Python, análisis espacial, , Leaflet, sensores, Imágenes Satélite, Google Maps, metro, iconos, perfiles longitudinales, geoblog, JavaScript, Ayuntamiento de Madrid, etiquetas, streaming 3D, FME, Geobloggers, , Mapas bivariantes, curso, Programación, Tips,  R, map tiles, ArcGIS PRO, modelos, modelador] 
 ---
 
 ## DeleNoticia #11
