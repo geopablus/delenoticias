@@ -3,8 +3,10 @@ layout: post
 title: Boletín del 18/11/19
 
 categories: [blog]
+
 tags: [análisis espacial, mapa, QGIS, Open Data, Cartografía, GEE, API, open source, Python, IGV, SNAP, Imágenes Satélite, Programación, plugin, satélite, OpenDroneMap, PyQGIS, GDAL, Docker, Base de datos, Webminar, teledetección, GeoPDF, GIS, SIG,  PostGIS, Overpass Turbo, redes, R, OSM, ESRI, ArcGIS, Geoportal, República Dominicana, GVSIG, EUMETSAT, MappingGIS, Mapa de riesgo, PROBA-V, Concurso, Sentinel Hub, Sentinel 2, Landsat, video 4D, Índices multiespectrales, Automatizar, ráster, ONU, Recursos abiertos, Cartografía colaborativ, biodiversidad, Madrid] 
 ---
+
 ## DeleNoticia #19
 
 
