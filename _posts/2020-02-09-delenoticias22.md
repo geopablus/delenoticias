@@ -4,7 +4,9 @@ title: Boletín del 09/02/2020
 
 categories: [blog]
 tags: [Open Data, Cartografía, GEE, open source, Python, Imágenes Satélite, Programación, teledetección, GIS, SIG, QGIS, mapa, jornadas, Congreso, TIG, QFIELD, escenarios, 3D, Blender, datos espaciales, Big Data, telefonía, móvil, , Geoingeniería, Chile, CAD, georreferenciar, automatización, casa apuesta, Valencia, API, script, revista, PyQGIS, tutorial, Jupyter Notebook, ArcGIS, Twitter, Kepler.gl,  Atlas, formularios, GVSIG] 
+
 ---
+
 ## DeleNoticia #22
 
 
